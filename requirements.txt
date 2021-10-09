@@ -1,0 +1,4 @@
+ffmpeg 
+pynacl 
+youtube_dl 
+discord.ext
